@@ -1,0 +1,5 @@
+to install pygame open anaconda prombt and enter:
+conda install -c cogsci pygame
+
+doc:
+https://www.pygame.org/docs/ref/music.html
