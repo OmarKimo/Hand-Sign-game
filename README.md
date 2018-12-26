@@ -9,4 +9,4 @@
 * The Player's score will be stored. Every correct hand sign adds points and the sign will disappear.<br>
 * There are no Time Limit or End of the chain, the speed of signs (the chain) will increase by increasing of the player's points.<br>
 * The Game will end if the player missed **MaxMiss** signs. (The user selects **MaxMiss** before the beginning of the game)<br>
-* The final score for any game = ceil( (points * **NBlock**/Miss)<sup>(2 - steptime)</sup> * 100 ).<br>
+* The final score for any game = ceil( (points * **NBlock**/**MaxMiss**)<sup>(2 - steptime)</sup> * 100 ).<br>
