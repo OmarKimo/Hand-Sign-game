@@ -1,5 +1,4 @@
 # Hand Sign game
-#### This is an image processing project for our third year at Computer department in Faculty of Engineering Cairo University.
 ## In this game:
 * The player must make special hand signs quickly at specific blocks of the screen.<br>
 * The game will use the webcam to read the user’s movements.<br>
